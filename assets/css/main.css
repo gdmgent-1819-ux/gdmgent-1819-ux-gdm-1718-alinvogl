@@ -7,3 +7,44 @@
 @import url('components/buttons.css');
 @import url('components/forms.css');
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#home{
+    background-image: url("../images/img1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+h1{
+    margin-left: 42%;
+    font-size: 60pt;
+    font-display: bold;
+    text-align: center;
+}
+
+p{
+    margin-right: 18%;
+    text-align:  right; 
+    padding-bottom: 3%;
+}
+
+a{
+    margin-left:73%;
+    border: 2px solid hsla(281, 63%, 51%, 1);
+    padding: 1% 2%;
+    text-decoration: none;
+    color:black;
+}
+
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }

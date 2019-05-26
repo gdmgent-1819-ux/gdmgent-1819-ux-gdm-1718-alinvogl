@@ -155,3 +155,8 @@ nav ul {
           width: 100%;
       }
   }
+
+  .material-icons{
+      padding: 5px;
+      border:hsla(281, 63%, 51%, 1) solid;
+  }

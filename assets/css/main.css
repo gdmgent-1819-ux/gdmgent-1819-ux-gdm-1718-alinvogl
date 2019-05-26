@@ -89,7 +89,7 @@ nav ul {
   .intro{
       clear: both;
       width: 100%;
-      padding: 7% 0 7% 0;
+      padding: 2% 0 4% 0;
       background-color: var(--c-primary);
   }
   .divider{
@@ -149,7 +149,7 @@ nav ul {
           width: 58%;
       }
       .card .text{
-          margin-left: -10%;
+          margin-left: -15%;
       }
       .card img {
           width: 100%;

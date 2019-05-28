@@ -91,6 +91,10 @@ nav ul li a:active{
     color:hsla(281, 63%, 51%,1);
 }
 
+#link a:hover{
+    color:hsla(281, 63%, 51%,1)
+}
+
   h2{
       margin-left:4%
   }

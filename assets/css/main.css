@@ -82,6 +82,15 @@ nav ul {
     border: none;
   }
 
+  nav ul li a:hover{
+    border-bottom: solid 1px hsla(281, 63%, 51%,1);
+}
+
+nav ul li a:active{
+    border-bottom: solid 1px hsla(281, 63%, 51%,1);
+    color:hsla(281, 63%, 51%,1);
+}
+
   h2{
       margin-left:4%
   }
